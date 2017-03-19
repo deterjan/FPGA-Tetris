@@ -1,4 +1,4 @@
-public class Berk
+public class GridCodeGen
 {
     public static void main( String[] args)
     {
