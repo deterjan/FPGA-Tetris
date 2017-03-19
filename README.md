@@ -13,7 +13,7 @@ pins 11, 12, 13 to BASYS 3 pins  JA2, JA3, JA4.
 
 * Connect two buzzers to pins JB1 and JC1 for music.
 
-* gridCodeGen.txt contains a Java class that is used to generate code for the VGA module to display the game grid.
+* GridCodeGen.java contains a Java class that is used to generate code for the VGA module to display the game grid.
 
 * Sometimes when multiple rows are supposed to be erased, one of them stays there, effectively breaking the game. This
 bug arises possibly due to the significant setup time violation.
