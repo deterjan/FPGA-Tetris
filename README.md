@@ -1,5 +1,6 @@
 # FPGA-Tetris
 Tetris implemented on BASYS 3 in SystemVerilog.
+Tetris theme player and block rotation logic implemented by Buğra Aydın
 
 # Notes
 
