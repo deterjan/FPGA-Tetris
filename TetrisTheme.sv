@@ -1,4 +1,3 @@
-
 module tetrisTheme(
 	input clk,
 	input reset,
@@ -669,4 +668,3 @@ case(address)
     default: note <= 8'd0;
 endcase
 endmodule
-
